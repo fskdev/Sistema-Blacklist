@@ -1,5 +1,8 @@
-# Sistema-Blacklist
+# Resumo
 Sistema de blacklist simples feito em PHP puro.
+
+# Objetivo
+Filtrar permissão de acesso a um site/sistema verificando se o ip do usuário está na lista negra.
 
 # Dependências
 ● PHP, Mysql<br>
